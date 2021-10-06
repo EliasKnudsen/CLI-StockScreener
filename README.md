@@ -1,6 +1,6 @@
 # Stock Screener CLI
 
-Stock Screener CLI is a small program to scan the market for diffrent stocks.
+Stock Screener CLI is a small program to scan the market for diffrent stocks, patterns, market cap. There are over 100 filters currently availible.
 
 This program scrapes the data from finviz. This makes the program highly unstable if changes are made.
 
