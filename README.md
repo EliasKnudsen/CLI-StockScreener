@@ -9,7 +9,7 @@ This program scrapes the data from finviz. This makes the program highly unstabl
 Use git to install Stock Screener CLI.
 
 ```bash
-git clone https://github.com/EliasKnudsen/CLI-StockScreener
+git clone https://github.com/EliasKnudsen/CLI-StockScreener.git
 ```
 In order to use the program, you will need to install the dependencies
 ```
